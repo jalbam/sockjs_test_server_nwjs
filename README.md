@@ -8,6 +8,9 @@ Version: no version
 - Date: 29th July 2016 (approximately)
 
 
+![ScreenShot](screenshot.gif)
+
+
 Description
 
 Just a simple SockJS server running on Node.js but using NW.js (formely node-webkit) to provide a simple visual interface for testing purposes.
