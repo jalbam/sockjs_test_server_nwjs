@@ -2,7 +2,7 @@ SockJS test server on NW.js
 ============================ 
 by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
-Just a simple SockJS server running on Node.js but using NW.js.
+Just a simple [SockJS](https://github.com/sockjs "SockJS - WebSocket emulation") server running on [Node.js](https://nodejs.org/ "Node.js") but using [NW.js](https://nwjs.io/ "NW.js") (formely node-webkit).
 
 Version: no version 
 - Date: 29th July 2016 (approximately)
@@ -11,8 +11,10 @@ Version: no version
 ![ScreenShot](screenshot.gif)
 
 
-Description
+## Description
 
-Just a simple SockJS server running on Node.js but using NW.js (formely node-webkit) to provide a simple visual interface for testing purposes.
+Just a simple [SockJS](https://github.com/sockjs "SockJS - WebSocket emulation") server running on [Node.js](https://nodejs.org/ "Node.js") but using [NW.js](https://nwjs.io/ "NW.js") (formely node-webkit) to provide a simple visual interface for testing purposes.
 
-It comes with a self-extracting single-file binary for Windows 32-bit (using 7zip's SFX) that runs on Windows XP and higher (generated with Web2Executable) but also includes the source code so it can be ported to other platforms supported by NW.js easily.
+The default listening port is set to 9999 but can be modified easily.
+
+It comes with a self-extracting single-file binary for Windows 32-bit (using [7zip](https://www.7-zip.org/links.html)'s SFX) that runs on Windows XP with SP2 (Service Pack 2) minimum and also on newer Windows versions as Windows 10 (generated with [Web2Executable](https://github.com/jyapayne/Web2Executable)) but also includes the source code so it can be ported to other platforms supported by [NW.js](https://nwjs.io/ "NW.js") easily.
