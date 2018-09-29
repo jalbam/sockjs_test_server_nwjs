@@ -18,3 +18,8 @@ Just a simple [SockJS](https://github.com/sockjs "SockJS - WebSocket emulation")
 The default listening port is set to 9999 but can be modified easily.
 
 It comes with a self-extracting single-file binary for Windows 32-bit (using [7zip](https://www.7-zip.org/links.html)'s SFX) that runs on Windows XP with SP2 (Service Pack 2) minimum and also on newer Windows versions as Windows 10 (generated with [Web2Executable](https://github.com/jyapayne/Web2Executable)) but also includes the source code so it can be ported to other platforms supported by [NW.js](https://nwjs.io/ "NW.js") easily.
+
+
+## License
+
+This project can be used, reproduced, distributed and modified freely for any non-commercial purposes but always keeping the author's name and copyright clauses. Other than that, just use this project as you wish but never sell it!
