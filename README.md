@@ -2,7 +2,7 @@ SockJS test server on NW.js
 ============================ 
 by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
-Just a simple [SockJS](https://github.com/sockjs "SockJS - WebSocket emulation") server running on [Node.js](https://nodejs.org/ "Node.js") but using [NW.js](https://nwjs.io/ "NW.js") (formely node-webkit).
+Just a simple [SockJS](https://github.com/sockjs "SockJS - WebSocket emulation") server running on [Node.js](https://nodejs.org/ "Node.js") but using [NW.js (formerly node-webkit)](https://nwjs.io/ "NW.js").
 
 Version: no version 
 - Date: 29th July 2016 (approximately)
@@ -13,7 +13,7 @@ Version: no version
 
 ## Description
 
-Just a simple [SockJS](https://github.com/sockjs "SockJS - WebSocket emulation") server running on [Node.js](https://nodejs.org/ "Node.js") but using [NW.js](https://nwjs.io/ "NW.js") (formely node-webkit) to provide a simple visual interface for testing purposes.
+Just a simple [SockJS](https://github.com/sockjs "SockJS - WebSocket emulation") server running on [Node.js](https://nodejs.org/ "Node.js") but using [NW.js (formerly node-webkit)](https://nwjs.io/ "NW.js") to provide a simple visual interface for testing purposes.
 
 The default listening port is set to 9999 but can be modified easily.
 
