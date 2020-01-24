@@ -1,6 +1,6 @@
 SockJS test server on NW.js 
 ============================ 
-by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
+by [Joan Alba Maldonado](https://joanalbamaldonado.com/) (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Just a simple [SockJS](https://github.com/sockjs "SockJS - WebSocket emulation") server running on [Node.js](https://nodejs.org/ "Node.js") but using [NW.js (formerly node-webkit)](https://nwjs.io/ "NW.js").
 
